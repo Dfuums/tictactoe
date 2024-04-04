@@ -1,0 +1,23 @@
+{
+  "name": "law-enforcement-operation-name-generator",
+  "version": "1.0.0",
+  "description": "Law-Enforcement-Operation-Name-Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "python npm init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dfuums/Law-Enforcement-Operation-Name-Generator.git"
+  },
+  "keywords": [
+    "law",
+    "enforcement"
+  ],
+  "author": "Dfuums",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dfuums/Law-Enforcement-Operation-Name-Generator/issues"
+  },
+  "homepage": "https://github.com/Dfuums/Law-Enforcement-Operation-Name-Generator#readme"
+}
